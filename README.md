@@ -1,7 +1,7 @@
 # python-enny-log
 Meus primeiros passos com a linguagem Python 🐍 | Estudando lógica, automação e pequenos scripts como parte da minha transição para TI.
 
-# 🐍 Python - Enny Log
+# 🐍 Python - Enny Raquel Log
 
 Este repositório reúne meus primeiros passos com a linguagem Python como parte da minha transição para a área de TI.
 
